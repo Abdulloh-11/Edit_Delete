@@ -1,0 +1,107 @@
+.nav{
+    border:1px solid #dbd8d8;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    height: 40px;
+    align-items: center;
+}
+.login{
+    width: 400px;
+    background-color: #fff3;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+    border:1px solid #a7a7ab;
+    border-radius:7px;
+    box-shadow: 2px 2px 3px #e5e5e5;
+    padding: 20px 20px;
+    flex-wrap: wrap;
+    
+
+}
+.login input{
+    height: 20px;
+   width:"150px";
+   margin:"auto";
+   display:'block' ;
+   margin-top:"50px";
+   margin-left: 20px;
+}
+
+.login_btn{
+    width:80px;
+      display:block;
+    border:none;
+    border-radius: 8px;
+    height: 30px;
+    margin: auto;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+
+
+.nav_btn{
+    width: 80px;
+    border:none;
+    border-radius:8px;
+    height: 25px;
+}
+
+
+.cay{
+    width: 300px;
+    background-color:#f7f7f7;
+    text-align: center;
+    border-radius:8px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cay h2{
+    width: 140px;
+
+}
+.add{
+    width: 400px;
+    height: 100px;
+    background-color: #fff3;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 100px;
+    border:1px solid #a7a7ab;
+    border-radius:7px;
+    box-shadow: 2px 2px 3px #e5e5e5;
+    padding: 20px 20px;
+    flex-wrap: wrap;
+}
+.add input{
+    height: 20px;
+   width:"150px";
+   margin:"auto";
+   display:'block' ;
+   margin-top:"50px";
+   margin-left: 20px;
+}
+.add_btn{
+    width:80px;
+    display:block;
+  border:none;
+  border-radius: 8px;
+  height: 30px;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.product_btn{
+    width: 80px;
+    border:none;
+    border-radius:8px;
+    background-color:#c5c5cb;
+    height: 25px;
+    margin-bottom: 10px;
+    margin-left: 42px;
+}
+
